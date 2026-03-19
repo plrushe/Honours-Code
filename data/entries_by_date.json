@@ -1,0 +1,738 @@
+{
+  "2026-02-15": {
+    "day": "2026-02-15",
+    "timestamp": "2026-02-15T21:10:00",
+    "text": "Today felt fairly calm. I got a few things done and had a quiet evening, which helped me feel settled.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.28,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.23,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-16": {
+    "day": "2026-02-16",
+    "timestamp": "2026-02-16T20:45:00",
+    "text": "I was a little tired today but still managed to stay focused. It was not exciting, just a steady sort of day.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.33,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.29,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-17": {
+    "day": "2026-02-17",
+    "timestamp": "2026-02-17T21:25:00",
+    "text": "I felt more distracted than usual and found it hard to concentrate for long. By the evening I felt a bit frustrated.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.58,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.62,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-18": {
+    "day": "2026-02-18",
+    "timestamp": "2026-02-18T21:00:00",
+    "text": "Today was better. I felt more organised and it was nice to feel like I was getting back on track.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.26,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.21,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-19": {
+    "day": "2026-02-19",
+    "timestamp": "2026-02-19T22:05:00",
+    "text": "I felt quite low tonight and struggled to shake off a heavy mood. Everything seemed to take more effort than usual.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.69,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.76,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-20": {
+    "day": "2026-02-20",
+    "timestamp": "2026-02-20T21:30:00",
+    "text": "I had a more balanced day today. I was not especially happy, but I felt more stable than yesterday.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.37,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.52,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-21": {
+    "day": "2026-02-21",
+    "timestamp": "2026-02-21T20:50:00",
+    "text": "I enjoyed a slower day and felt comfortable just taking things easy. It was a simple day, but a good one.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.2,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.16,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-22": {
+    "day": "2026-02-22",
+    "timestamp": "2026-02-22T21:40:00",
+    "text": "I felt restless today and could not really settle. My thoughts were all over the place and it left me drained.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.61,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.68,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-23": {
+    "day": "2026-02-23",
+    "timestamp": "2026-02-23T21:15:00",
+    "text": "Today was okay overall. I had a few moments of stress, but nothing felt unmanageable.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.35,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.41,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-24": {
+    "day": "2026-02-24",
+    "timestamp": "2026-02-24T22:00:00",
+    "text": "I felt unusually overwhelmed today and even small tasks felt heavier than they should have.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.72,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.79,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-25": {
+    "day": "2026-02-25",
+    "timestamp": "2026-02-25T21:05:00",
+    "text": "I felt more hopeful today. Things were still a bit tiring, but I could see some progress and that helped.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.31,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.27,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-26": {
+    "day": "2026-02-26",
+    "timestamp": "2026-02-26T20:35:00",
+    "text": "I had a steady day and managed my time better. Nothing major happened, but I felt more in control.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.25,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.22,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-27": {
+    "day": "2026-02-27",
+    "timestamp": "2026-02-27T21:50:00",
+    "text": "Today I felt flat and not very interested in much. I got through the day, but it felt emotionally dull.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.56,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.6,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-02-28": {
+    "day": "2026-02-28",
+    "timestamp": "2026-02-28T22:10:00",
+    "text": "I felt better after getting outside for a while. The fresh air helped and my mood lifted a bit.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.27,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.24,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-01": {
+    "day": "2026-03-01",
+    "timestamp": "2026-03-01T21:20:00",
+    "text": "The start of the month felt okay. I had some motivation today and felt more optimistic than I have in a while.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.22,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.18,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-02": {
+    "day": "2026-03-02",
+    "timestamp": "2026-03-02T21:55:00",
+    "text": "I felt under pressure today and my stress built up as the day went on. I found it hard to switch off later.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.64,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.7,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-03": {
+    "day": "2026-03-03",
+    "timestamp": "2026-03-03T20:40:00",
+    "text": "Today felt more manageable. I still felt a bit tense, but I handled things better than I expected.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.34,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.43,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-04": {
+    "day": "2026-03-04",
+    "timestamp": "2026-03-04T21:35:00",
+    "text": "I had a good day and felt engaged with what I was doing. It was nice to feel more mentally present.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.18,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.15,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-05": {
+    "day": "2026-03-05",
+    "timestamp": "2026-03-05T22:15:00",
+    "text": "I felt more anxious again today and spent too much time overthinking small things.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.6,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.67,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-06": {
+    "day": "2026-03-06",
+    "timestamp": "2026-03-06T21:10:00",
+    "text": "Today was fairly neutral. I was not in a great mood, but nothing felt especially bad either.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.36,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.51,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-07": {
+    "day": "2026-03-07",
+    "timestamp": "2026-03-07T20:55:00",
+    "text": "I felt more positive today and enjoyed having a bit more energy. It felt easier to do everyday things.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.21,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.17,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-08": {
+    "day": "2026-03-08",
+    "timestamp": "2026-03-08T21:45:00",
+    "text": "I had a difficult day emotionally and felt more withdrawn. I did not really want to speak to anyone.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.74,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.82,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-09": {
+    "day": "2026-03-09",
+    "timestamp": "2026-03-09T21:00:00",
+    "text": "Today felt a bit lighter. I still felt tired, but I managed a few useful things and that helped my mood.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.32,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.39,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-10": {
+    "day": "2026-03-10",
+    "timestamp": "2026-03-10T22:05:00",
+    "text": "I felt emotionally flat today and struggled to feel interested in anything for very long.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.57,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.63,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-11": {
+    "day": "2026-03-11",
+    "timestamp": "2026-03-11T21:25:00",
+    "text": "Today was decent overall. I felt more settled by the evening and a little more hopeful about tomorrow.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.29,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.25,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-12": {
+    "day": "2026-03-12",
+    "timestamp": "2026-03-12T21:15:00",
+    "text": "I had a productive day and felt motivated about the work I accomplished.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.24,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.19,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-13": {
+    "day": "2026-03-13",
+    "timestamp": "2026-03-13T20:55:00",
+    "text": "Today was relaxing and I enjoyed spending time reading.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.19,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.14,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more positive or steady in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-14": {
+    "day": "2026-03-14",
+    "timestamp": "2026-03-14T22:20:00",
+    "text": "I felt quite anxious today and struggled to relax in the evening.",
+    "sentiment_ml": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.63,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a difficult emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.71,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-15": {
+    "day": "2026-03-15",
+    "timestamp": "2026-03-15T21:40:00",
+    "text": "Today felt more balanced. I wasn’t especially energetic, but I felt stable.",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.36,
+      "threshold": 0.386,
+      "feedback": "This model reads today’s entry as leaning more toward a positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "negative",
+      "predicted_class": 1,
+      "p_negative": 0.54,
+      "threshold": 0.5,
+      "feedback": "This model reads the entry as more difficult in tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-16": {
+    "day": "2026-03-16",
+    "timestamp": "2026-03-16T23:46:31",
+    "text": "I had a pretty good day today. I ate good food and spent time with friends",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.3034513175336524,
+      "threshold": 0.3860007450301109,
+      "feedback": "This model suggests the writing leans toward a more positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.05847848951816559,
+      "threshold": 0.5,
+      "feedback": "This model suggests the writing leans toward a more positive or steady emotional tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-17": {
+    "day": "2026-03-17",
+    "timestamp": "2026-03-17T01:14:54",
+    "text": "today was amazing",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.47390229397699235,
+      "threshold": 0.55,
+      "feedback": "This model suggests the writing leans toward a more positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.14347684383392334,
+      "threshold": 0.5,
+      "feedback": "This model suggests the writing leans toward a more positive or steady emotional tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  },
+  "2026-03-18": {
+    "day": "2026-03-18",
+    "timestamp": "2026-03-18T00:21:00",
+    "text": "Took the dog a walk today and had a good time",
+    "sentiment_ml": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.3690711013283674,
+      "threshold": 0.55,
+      "feedback": "This model suggests the writing leans toward a more positive or steady emotional tone.",
+      "model": "classic-ml",
+      "available": true
+    },
+    "sentiment_dl": {
+      "label": "positive",
+      "predicted_class": 0,
+      "p_negative": 0.06639867275953293,
+      "threshold": 0.5,
+      "feedback": "This model suggests the writing leans toward a more positive or steady emotional tone.",
+      "model": "deep-learning",
+      "available": true
+    }
+  }
+}
