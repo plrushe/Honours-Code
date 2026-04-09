@@ -1,0 +1,8 @@
+flet==0.21.2
+joblib==1.4.2
+numpy==1.26.4
+scikit-learn==1.4.2
+nltk==3.8.1
+transformers==4.41.2
+torch==2.3.0
+pytest==8.2.0
