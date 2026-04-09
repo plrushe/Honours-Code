@@ -10,7 +10,7 @@ Some Notes:
 Setup and Installation
 
 1. Clone the repository
-git clone https://github.com/plrushe/project.git
+git clone https://github.com/plrushe/Honours-Code.git
 cd project
 2. Create a virtual environment (Windows)
 py -3.11 -m venv venv
