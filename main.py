@@ -815,7 +815,7 @@ def main(page: ft.Page):
                                 horizontal_alignment=ft.CrossAxisAlignment.CENTER,
                                 spacing=14,
                                 controls=[
-                                    ft.Text("Welcome 👋", size=30, weight=ft.FontWeight.BOLD,
+                                    ft.Text("Welcome", size=30, weight=ft.FontWeight.BOLD,
                                             text_align=ft.TextAlign.CENTER),
                                     ft.Text(
                                         "Write one entry per day, compare two models, and explore patterns over time.",
