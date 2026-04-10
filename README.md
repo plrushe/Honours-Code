@@ -27,8 +27,3 @@ pip install -r requirements.txt
 install model.safetensors from cloud (File too large for github)
 https://caledonianac-my.sharepoint.com/:u:/g/personal/prushe300_caledonian_ac_uk/IQBZlGC4gsMmTK9z-ybO_ULAAU9QnTlrEsslxQayCruNVtI?e=J2Octb
 and place it in the distilbert_depression_classifier folder.
-
-
-Run the application from the project root:
-
-python -m src.app
